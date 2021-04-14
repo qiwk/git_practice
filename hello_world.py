@@ -5,3 +5,4 @@
 """
 print("Hello Git World")
 pritn("Getting started")
+print("set dev")
