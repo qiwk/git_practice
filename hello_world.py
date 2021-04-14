@@ -4,3 +4,4 @@
 日期：2021年04月13日
 """
 print("Hello Git World")
+pritn("Getting started")
